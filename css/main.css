@@ -614,6 +614,9 @@ p {
 	padding-top: 100px;
 	padding-bottom: 138px;
 	background-image: url(../img/bg_order.jpg);
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
 }
 .order .descr-section {
 	max-width: 1390px;
