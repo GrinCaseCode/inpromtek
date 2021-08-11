@@ -672,6 +672,9 @@ display: none !important;
 .item-step__title {
     font-size: 19px;
 }
+.descr-section br {
+	display: none;
+}
 }
 
 /* Extra Small Devices, Phones */
