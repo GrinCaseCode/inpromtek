@@ -30,13 +30,13 @@
 		padding-left: 126px;
 		padding-right: 65px; 
 	}
-	.consult-block li {
+	.consult-block li { 
 		margin-bottom: 24px;
 	} 
 	.item-step {
 		padding-left: 89px;
 		max-width: 615px; 
-	}
+	} 
 	.item-step__title {
 		font-size: 26px;
 	}
