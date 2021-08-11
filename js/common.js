@@ -87,6 +87,7 @@ if ( $(this).scrollTop() > 0 && $menu.hasClass("default") ){
 		{
 			breakpoint: 993,
 			settings: {
+				 fade: false,
 				arrows: true,
 				 adaptiveHeight: true
 			}
